@@ -14,7 +14,7 @@ using System.Reflection;
 [assembly: System.Reflection.AssemblyCompanyAttribute("Desire_Chukwudi_8905482_Assignment4")]
 [assembly: System.Reflection.AssemblyConfigurationAttribute("Debug")]
 [assembly: System.Reflection.AssemblyFileVersionAttribute("1.0.0.0")]
-[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0")]
+[assembly: System.Reflection.AssemblyInformationalVersionAttribute("1.0.0+95a5f01234ff1c0d3e2a4948951b347ca2e0f2da")]
 [assembly: System.Reflection.AssemblyProductAttribute("Desire_Chukwudi_8905482_Assignment4")]
 [assembly: System.Reflection.AssemblyTitleAttribute("Desire_Chukwudi_8905482_Assignment4")]
 [assembly: System.Reflection.AssemblyVersionAttribute("1.0.0.0")]
